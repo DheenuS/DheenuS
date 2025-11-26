@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Dheenu</h1>
-<h3 align="center">🚀 Full Stack (MERN) Developer | Performance-Driven | Building Production-Ready Web Apps</h3>
+<h1 align="left">Hi 👋 I'm Dheenu</h1>
+<h3 align="left">🚀 Full Stack (MERN) Developer | Performance-Driven | Building Production-Ready Web Apps</h3>
 
 ---
 
@@ -10,17 +10,16 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 
 - 🌍 Based in Kallakurichi, Tamil Nadu, India
 - ✉️ You can reach me: **dheendheenu777@gmail.com**
-- 💻 Check out my portfolio: **https://dheenus.github.io/portfolio/**
-- 🔗 Stay connected through LinkedIn: **https://linkedin.com/in/dheenus**
+- 🔗 Stay connected: **https://linkedin.com/in/dheenus**
 - 🧠 Currently learning: **Generative AI + Full Stack**
 - 🤝 Open to collaborate: **Open Source | SaaS Products | Real-world Web Apps**
 - ⚡ Motto: *“Focus on Progress... Not the destination”*
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Skills
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,redux,js,ts,tailwind,html,css,nodejs,express,mongodb,mysql,git,github,postman,figma" />
 </p>
 
@@ -46,7 +45,7 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 ---
   
 ### 🌐 Socials
-<p align="center">
+<p align="left">
 <a href="https://github.com/DheenuS"><img src="https://skillicons.dev/icons?i=github"></a>
 <a href="https://linkedin.com/in/dheenus"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 <a href="mailto:dheendheenu777@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
