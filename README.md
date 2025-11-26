@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋 I'm Dheenu</h1>
 <h3 align="left">🚀 Full Stack (MERN) Developer | Building Production-Ready Web Apps</h3>
-------------------------------------------------------------------------------------------
 
 ### 👨‍💻 About Me
 
