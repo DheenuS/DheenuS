@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dheenu</h1>
-<h3 align="center">🚀 React Stack (MERN) Developer | Performance-Driven | Building Production-Ready Web Apps</h3>
+<h3 align="center">🚀 Full Stack (MERN) Developer | Performance-Driven | Building Production-Ready Web Apps</h3>
 
 ---
 
