@@ -61,15 +61,6 @@ I love crafting reusable UI components, integrating secure APIs, and optimizing 
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=DheenuS&show_icons=true&theme=tokyonight" height="165"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DheenuS&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ### 🌐 Socials
 <p align="center">
 <a href="https://github.com/DheenuS"><img src="https://skillicons.dev/icons?i=github"></a>
